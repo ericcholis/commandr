@@ -22,7 +22,7 @@ from distutils.core import setup
 setup(
     name='commandr',
     version='1.1.0',
-    packages=['commandr'],
+    packages=['commandr', 'functools_util'],
     author='Kevin Ballard',
     author_email='kevin@tellapart.com',
     url='http://pypi.python.org/pypi/commandr/',
